@@ -1,2 +1,1 @@
-Shell script that runs a Python script
-
+a begining into python wih hello world
