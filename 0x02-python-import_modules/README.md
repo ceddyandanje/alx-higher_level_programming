@@ -1,2 +1,1 @@
-0x02. Python - import & modules
-JUEVES
+import of modules an libaries to python
